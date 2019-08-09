@@ -1,9 +1,9 @@
 # LAYOUTS
 
-This directory contains your Application Layouts.
+Этот каталог содержит лэйауты ваших приложений.
 
-More information about the usage of this directory in the documentation:
+Подробнее об использовании этого каталога в документации:
 https://nuxtjs.org/guide/views#layouts
 
-**This directory is not required, you can delete it if you don't want to use it.**
+**Этот каталог не требуется, вы можете удалить его, если не хотите его использовать.**
 
